@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  body{
+    color: white;
+    max-width: 2000px;
+    margin:auto;
+  }
+  
+  .container-main{
+    background-color: #bcecbe;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid, #238000;
+  }
+  
+  .container-top{
+    background-color: #add8e6;
+    padding: 15px;
+    margin: 10px;
+    border: 5px solid, #2000ff;
+    display: flex;
+  }
+  
+  .container-top-1{
+    background-color: #fcdab9;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid, #f78072;
+    flex: 1;
+    height: 100px;
+  }
+  
+  .container-top-2{
+    background-color: #fcdab9;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid, #f78072;
+    flex: 1;
+    height: 100px;
+    display: flex;
+  }
+  
+  .container-top-2A{
+    background-color: #fac0cb;
+    border: 5px solid, #f40105;
+    flex: 1;
+    height: 70px;
+  }
+  
+  .container-top-2B{
+    background-color: #fac0cb;
+    border: 5px solid, #f40105;
+    flex: 1;
+    height: 70px;
+  }
+  
+  .container-top-3{
+    background-color: #fcdab9;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid, #f78072;
+    flex: 1;
+    height: 100px;
+  }
+  
+  .container-mid{
+    display: flex;
+  }
+  
+  .container-mid-1{
+    background-color: #fabbbb;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid, #a52b2a;
+    flex: 1;
+    height: auto;
+  }
+  
+  .container-mid-2{
+    flex: 1;
+  }
+  .container-mid-2A{
+    background-color: #fabbbb;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid, #a52b2a;
+    height: 100px;
+  }
+  
+  .container-mid-2B{
+    background-color: #fabbbb;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid, #a52b2a;
+    height: 100px;
+  }
+  
+  
+  .container-bottom{
+    background-color: #add8e6;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid, #2000ff;
+    display: flex;
+    height: 200px;
+  }
+  
+  .container-bottom-1{
+    background-color: #e2deff;
+    padding: 30px;
+    margin: 3px;
+    border: 5px solid, #6a5acd;
+    flex: 2;
+    height: auto;
+  }
+  
+  .container-bottom-2{
+    background-color: #fcdab9;
+    padding: 30px;
+    margin: 3px;
+    border: 5px solid, #f78072;
+    flex: 1;
+    width: 10px;
+  }
+  
+  .container-bottom-3{
+    background-color: #fcdab9;
+    padding: 30px;
+    margin: 3px;
+    border: 5px solid, #f78072;
+    flex: 1;
+    width: auto
+  }
+  
+  .container-bottom-4{
+    background-color: #e2deff;
+    padding: 30px;
+    margin: 3px;
+    border: 5px solid, #6a5acd;
+    flex: 2;
+  }
+  
+  
+  
+  
